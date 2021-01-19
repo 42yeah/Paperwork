@@ -1,0 +1,10 @@
+[Interface]
+PrivateKey = YCFY5w4TywW/aPXJkAv1Y+uTRK2SkX6da8lDKERZ2Fg=
+Address = 10.0.0.5/24
+DNS = 8.8.8.8
+MTU = 1420
+
+[Peer]
+PublicKey = LE3CA3TZxFt4xxfTHDDJShrh7dtogtTiqm/jZvwB4mQ=
+AllowedIPs = 0.0.0.0/0
+Endpoint = 47.106.234.255:32123
